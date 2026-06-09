@@ -1,0 +1,1777 @@
+VIDEO,ANIMAL,BODY-PART,SHAPE,SHAPE TYPE,MEASUREMENT,VALUE
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.6112473241046488
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.84
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.14
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),40.0
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),10.611914109266872
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),5.6000000000000005
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),5.020212446985258
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.96
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.22695652173913045
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),138.0
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),144.70070577268606
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),31.32
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.8484568759483957
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),12.6
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16044444444444445
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),90.0
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),35.31084115004671
+C1-CCI_8A4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),14.440000000000001
+C1-CCI_8A4-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8A4-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8A4-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8A4-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8A4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8A4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.7802911954247017
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),20.32
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.5375000000000001
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),16.0
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),3.82542181057967
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),8.600000000000001
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.05462225126137582
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),32.56
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.20555555555555557
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),36.0
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.201009884641863
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),7.4
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.4407703238903808
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),2.56
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.24172661870503592
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),139.0
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),5.815323894046362
+C1-CCI_8A4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),33.599999999999994
+C1-CCI_8A4-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8A4-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8A4-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8A4-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8A4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8A4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.9315075047449176
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),4.36
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2378947368421053
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),19.0
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),1.243974782724296
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),4.5200000000000005
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),3.3303356461113616
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),8.52
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.691014492753623
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),69.0
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),63.56402432640799
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),47.67999999999999
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8541546904472705
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),20.24
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.8561702127659573
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),47.0
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),10.189270659193264
+C1-CCI_8B3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),40.239999999999995
+C1-CCI_8B3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8B3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8B3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8B3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8B3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8B3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.11174474625258116
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),33.04
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.43999999999999995
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),45.0
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),4.867784725295173
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),19.799999999999997
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.02124594288995896
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.4
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.39999999999999997
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),43.0
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.19716235001881915
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),17.2
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.9169736648419722
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.96
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1736231884057971
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),138.0
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),4.960380564133326
+C1-CCI_8B3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),23.96
+C1-CCI_8B3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8B3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8B3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8B3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8B3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8B3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.1424343944281283
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.56
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.18190476190476193
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),42.0
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),3.37023168522462
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),7.640000000000001
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.0158500130948482
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),2.88
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.2604651162790697
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),129.0
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),33.73554232636067
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),33.599999999999994
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.458930264524422
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),11.08
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.23448275862068965
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),87.0
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),11.614361407588039
+C1-CCI_8B4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),20.4
+C1-CCI_8B4-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8B4-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8B4-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8B4-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8B4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8B4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.05684692077149661
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),20.4
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.327741935483871
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),62.0
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.6145360663177148
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),20.32
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.46263173270518054
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.32
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.33999999999999997
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),28.0
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),2.6920176875965596
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),9.52
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8181911204653493
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),11.24
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.3433333333333333
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),84.0
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),13.274518122611724
+C1-CCI_8B4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),28.84
+C1-CCI_8B4-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+C1-CCI_8B4-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),44.64
+C1-CCI_8B4-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.16
+C1-CCI_8B4-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),1.0
+C1-CCI_8B4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8B4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.16
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),4.143504613063116
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.21919999999999998
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),25.0
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),19.352737204342954
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),5.4799999999999995
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),5.426331939471717
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.04
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.22994285714285712
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),175.0
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),178.66955946337512
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),40.239999999999995
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),5.385702200315919
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),10.44
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.20918032786885246
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),61.0
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),47.067041863647916
+C1-CCI_8C3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),12.76
+C1-CCI_8C3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8C3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8C3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8C3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8C3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8C3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.9166119506067374
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.8
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.33333333333333326
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),45.0
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),23.07636545038858
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),14.999999999999996
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),4.039920422968733
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.32
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.2748387096774194
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),31.0
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),21.46569250498366
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),8.520000000000001
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8754124281094076
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),12.28
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.213109243697479
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),119.0
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),23.920350364768453
+C1-CCI_8C3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),25.36
+C1-CCI_8C3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8C3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8C3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8C3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8C3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8C3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.5737461073525507
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),19.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.12615384615384617
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),13.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),3.702291819647597
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),1.6400000000000001
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),3.3850486908028783
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.9075
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),80.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),239.70272895991334
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),72.6
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),4.2939507938683965
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),3.12
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.31875000000000003
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),32.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),38.07183178694644
+C1-CCI_8D1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),10.200000000000001
+C1-CCI_8D1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8D1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8D1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8D1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8D1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.6841538615517183
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.64
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.3945631067961165
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),103.0
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),21.06961460479713
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),40.64
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),4.4563575532907205
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),15.08
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.2442105263157894
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),38.0
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),21.74445024530382
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),9.279999999999998
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),4.165635039617389
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),26.84
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.2572549019607843
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),51.0
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),27.605480786020046
+C1-CCI_8D1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),13.12
+C1-CCI_8D1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-CCI_8D1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-CCI_8D1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-CCI_8D1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-CCI_8D1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-CCI_8D1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8A1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),4.9238391854787595
+C1-N_8A1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-N_8A1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.13
+C1-N_8A1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),36.0
+C1-N_8A1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),10.881507524685306
+C1-N_8A1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),4.680000000000001
+C1-N_8A1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),5.095034009436436
+C1-N_8A1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.76
+C1-N_8A1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.2847457627118644
+C1-N_8A1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),118.0
+C1-N_8A1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),137.69438743051435
+C1-N_8A1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),33.6
+C1-N_8A1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.5705628053869654
+C1-N_8A1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.0
+C1-N_8A1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.22635294117647062
+C1-N_8A1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),85.0
+C1-N_8A1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),56.01324197228474
+C1-N_8A1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),19.240000000000002
+C1-N_8A1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8A1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8A1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8A1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8A1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8A1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8A1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.44556290950757566
+C1-N_8A1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),24.2
+C1-N_8A1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.34709677419354834
+C1-N_8A1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),62.0
+C1-N_8A1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),4.314105872475492
+C1-N_8A1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),21.519999999999996
+C1-N_8A1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.3203996977171976
+C1-N_8A1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),28.8
+C1-N_8A1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.31833333333333336
+C1-N_8A1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),24.0
+C1-N_8A1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.6999352880085293
+C1-N_8A1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),7.640000000000001
+C1-N_8A1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.47243510622738233
+C1-N_8A1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),12.24
+C1-N_8A1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.27612903225806457
+C1-N_8A1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),93.0
+C1-N_8A1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),9.927153531182192
+C1-N_8A1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),25.680000000000003
+C1-N_8A1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8A1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8A1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8A1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8A1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8A1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8B2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.722187609262608
+C1-N_8B2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.04
+C1-N_8B2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.1718918918918919
+C1-N_8B2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),37.0
+C1-N_8B2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),5.071086161158073
+C1-N_8B2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),6.36
+C1-N_8B2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),5.710433236505884
+C1-N_8B2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.36
+C1-N_8B2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.2410344827586207
+C1-N_8B2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),116.0
+C1-N_8B2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),47.32624682570113
+C1-N_8B2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),27.96
+C1-N_8B2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.35190335584557564
+C1-N_8B2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),15.04
+C1-N_8B2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.22032786885245903
+C1-N_8B2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),122.0
+C1-N_8B2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),10.525799979766758
+C1-N_8B2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),26.880000000000003
+C1-N_8B2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+C1-N_8B2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),42.24
+C1-N_8B2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.20000000000000004
+C1-N_8B2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),3.0
+C1-N_8B2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8B2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.6000000000000001
+C1-N_8B2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.32751259223388074
+C1-N_8B2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),23.36
+C1-N_8B2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.7448648648648648
+C1-N_8B2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),37.0
+C1-N_8B2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),12.4877481924349
+C1-N_8B2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),27.56
+C1-N_8B2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.3678174423060834
+C1-N_8B2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),16.88
+C1-N_8B2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.7050000000000001
+C1-N_8B2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),24.0
+C1-N_8B2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),23.38930241010162
+C1-N_8B2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),16.92
+C1-N_8B2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.5042756894281404
+C1-N_8B2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),6.04
+C1-N_8B2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.5669841269841269
+C1-N_8B2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),63.0
+C1-N_8B2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),30.80515843554494
+C1-N_8B2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),35.72
+C1-N_8B2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8B2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8B2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8B2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8B2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8B2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8C2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.15514764236769812
+C1-N_8C2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+C1-N_8C2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2694736842105263
+C1-N_8C2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),57.0
+C1-N_8C2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),1.1163332273484095
+C1-N_8C2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),15.360000000000001
+C1-N_8C2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.27768373090825527
+C1-N_8C2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.92
+C1-N_8C2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.25222222222222224
+C1-N_8C2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),108.0
+C1-N_8C2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),9.596749740189301
+C1-N_8C2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),27.240000000000002
+C1-N_8C2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.4121428261485343
+C1-N_8C2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),19.12
+C1-N_8C2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.15342465753424658
+C1-N_8C2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),73.0
+C1-N_8C2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),7.819466102724125
+C1-N_8C2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),11.200000000000001
+C1-N_8C2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8C2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8C2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8C2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8C2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8C2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8C2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.302999925374987
+C1-N_8C2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.08
+C1-N_8C2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2412403100775194
+C1-N_8C2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),129.0
+C1-N_8C2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),36.95166458168348
+C1-N_8C2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),31.12
+C1-N_8C2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),6.480852291099618
+C1-N_8C2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),8.84
+C1-N_8C2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.15
+C1-N_8C2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),60.0
+C1-N_8C2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),54.21968986808006
+C1-N_8C2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),9.0
+C1-N_8C2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),4.007679038558201
+C1-N_8C2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.08
+C1-N_8C2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.19259259259259257
+C1-N_8C2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),54.0
+C1-N_8C2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),28.930794189802487
+C1-N_8C2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),10.399999999999999
+C1-N_8C2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8C2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8C2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8C2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8C2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8C2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8C4-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8C4-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8C4-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8C4-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8C4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8C4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8C4-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.6022372404239708
+C1-N_8C4-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.04
+C1-N_8C4-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.21562913907284764
+C1-N_8C4-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),151.0
+C1-N_8C4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),41.287846325390916
+C1-N_8C4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),32.559999999999995
+C1-N_8C4-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.0053960890710738
+C1-N_8C4-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),2.16
+C1-N_8C4-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16194174757281554
+C1-N_8C4-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),103.0
+C1-N_8C4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),10.109522354415926
+C1-N_8C4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),16.68
+C1-N_8C4-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8C4-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8C4-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8C4-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8C4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8C4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8C4-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.9996603562920876
+C1-N_8C4-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.12
+C1-N_8C4-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.32727272727272727
+C1-N_8C4-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),55.0
+C1-N_8C4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),18.059838919355798
+C1-N_8C4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),18.0
+C1-N_8C4-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.20002146795668552
+C1-N_8C4-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),8.08
+C1-N_8C4-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.2835555555555555
+C1-N_8C4-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),45.0
+C1-N_8C4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),2.24003437859844
+C1-N_8C4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),12.759999999999998
+C1-N_8C4-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.7354351489683334
+C1-N_8C4-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),21.0
+C1-N_8C4-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.21009009009009008
+C1-N_8C4-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),111.0
+C1-N_8C4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),10.271251368168892
+C1-N_8C4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),23.32
+C1-N_8C4-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8C4-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8C4-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8C4-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8C4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8C4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8D2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.4512586006230201
+C1-N_8D2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),16.76
+C1-N_8D2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.9527272727272728
+C1-N_8D2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),22.0
+C1-N_8D2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),16.80868987919891
+C1-N_8D2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),20.96
+C1-N_8D2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.21766863403565082
+C1-N_8D2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.28
+C1-N_8D2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.5686153846153847
+C1-N_8D2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),65.0
+C1-N_8D2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),6.113847322286514
+C1-N_8D2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),36.96000000000001
+C1-N_8D2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.4888036425665121
+C1-N_8D2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),6.04
+C1-N_8D2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.445625
+C1-N_8D2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),64.0
+C1-N_8D2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),6.457060884106227
+C1-N_8D2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),28.52
+C1-N_8D2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8D2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8D2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8D2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8D2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8D2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8D2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),3.2452430587138412
+C1-N_8D2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.4
+C1-N_8D2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.6377142857142857
+C1-N_8D2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),35.0
+C1-N_8D2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),60.82587150364739
+C1-N_8D2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),22.32
+C1-N_8D2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),5.9116844343070145
+C1-N_8D2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),17.84
+C1-N_8D2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.8254545454545454
+C1-N_8D2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),22.0
+C1-N_8D2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),87.40510621539565
+C1-N_8D2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),18.16
+C1-N_8D2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.8417327965199402
+C1-N_8D2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),23.0
+C1-N_8D2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.6190243902439024
+C1-N_8D2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),82.0
+C1-N_8D2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),72.44543341004028
+C1-N_8D2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),50.76
+C1-N_8D2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+C1-N_8D2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),73.76
+C1-N_8D2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.39142857142857146
+C1-N_8D2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),14.0
+C1-N_8D2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8D2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),5.48
+C1-N_8E5-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.08128931732564287
+C1-N_8E5-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),23.12
+C1-N_8E5-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2610909090909091
+C1-N_8E5-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),55.0
+C1-N_8E5-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.24102920397007416
+C1-N_8E5-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),14.360000000000001
+C1-N_8E5-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.1498174648993296
+C1-N_8E5-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),1.8
+C1-N_8E5-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.17651376146788994
+C1-N_8E5-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),109.0
+C1-N_8E5-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),19.49177515664579
+C1-N_8E5-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),19.240000000000002
+C1-N_8E5-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.5459710416019591
+C1-N_8E5-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),10.12
+C1-N_8E5-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.09872340425531913
+C1-N_8E5-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),94.0
+C1-N_8E5-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),1.2602217870954473
+C1-N_8E5-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),9.279999999999998
+C1-N_8E5-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8E5-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8E5-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8E5-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8E5-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8E5-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+C1-N_8E5-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.4071964808140924
+C1-N_8E5-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),4.56
+C1-N_8E5-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.28971962616822433
+C1-N_8E5-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),107.0
+C1-N_8E5-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),15.049691284417056
+C1-N_8E5-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),31.000000000000004
+C1-N_8E5-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.6756448851390973
+C1-N_8E5-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),31.16
+C1-N_8E5-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.22342857142857145
+C1-N_8E5-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),70.0
+C1-N_8E5-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),18.084637539102093
+C1-N_8E5-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),15.64
+C1-N_8E5-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.41103293724186635
+C1-N_8E5-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),35.04
+C1-N_8E5-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1961904761904762
+C1-N_8E5-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),42.0
+C1-N_8E5-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),2.629792439986259
+C1-N_8E5-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),8.24
+C1-N_8E5-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+C1-N_8E5-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+C1-N_8E5-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+C1-N_8E5-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+C1-N_8E5-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+C1-N_8E5-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.8228249093464606
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.2
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.20184615384615384
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),65.0
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),20.272515163911944
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),13.12
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.9521964566378922
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),8.08
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.14690265486725665
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),226.0
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),60.58183519381564
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),33.2
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.8674014847287213
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),6.24
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.14272727272727273
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),44.0
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),3.329718671694869
+M-CCI_7B4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),6.28
+M-CCI_7B4-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-CCI_7B4-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-CCI_7B4-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-CCI_7B4-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-CCI_7B4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7B4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),4.617867601267797
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.27636363636363637
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),55.0
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),31.746797732731284
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),15.2
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),2.150411803558284
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.12
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.11033557046979867
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),149.0
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),15.49709808457161
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),16.44
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),3.0127646244476334
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),8.96
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.20205128205128206
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),39.0
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),16.85496161393466
+M-CCI_7B4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),7.88
+M-CCI_7B4-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-CCI_7B4-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-CCI_7B4-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-CCI_7B4-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-CCI_7B4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7B4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),4.29271218695142
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),44.12
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2705084745762712
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),59.0
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),59.20553889706952
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),15.959999999999999
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),11.015781027220102
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),24.56
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.145985401459854
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),137.0
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),177.73219092457333
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),20.0
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),5.940987466882507
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),11.88
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.2148148148148148
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),81.0
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),95.01009637202971
+M-CCI_7D2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),17.4
+M-CCI_7D2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-CCI_7D2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-CCI_7D2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-CCI_7D2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-CCI_7D2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7D2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.4813637599966238
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.28
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.28611464968152867
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),157.0
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),35.34451937347402
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),44.92
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),11.967484508787736
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),73.16
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1804878048780488
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),41.0
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),35.6073652751975
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),7.4
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.2085514948393037
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),77.8
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.12
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),63.0
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),9.00940265426488
+M-CCI_7D2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),7.56
+M-CCI_7D2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+M-CCI_7D2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),3.48
+M-CCI_7D2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.29599999999999993
+M-CCI_7D2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),55.0
+M-CCI_7D2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7D2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),16.279999999999998
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.422330013161523
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.36
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.199
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),80.0
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),8.846414907629304
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),15.920000000000002
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8974987712334543
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),14.44
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.18476190476190477
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),168.0
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),25.022420962901677
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),31.040000000000003
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.5354605901962679
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),20.16
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.18215384615384614
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),65.0
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),9.162381366332067
+M-CCI_7D3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),11.84
+M-CCI_7D3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-CCI_7D3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-CCI_7D3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-CCI_7D3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-CCI_7D3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7D3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.8307042082602907
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.4
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.6711111111111111
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),45.0
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),51.54039657739181
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),30.2
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),3.6510268785933384
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.16
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.09239436619718312
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),71.0
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),5.317470057858703
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),6.560000000000001
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),3.6592677135002023
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),8.8
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1282758620689655
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),87.0
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),28.482097114976035
+M-CCI_7D3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),11.159999999999997
+M-CCI_7D3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-CCI_7D3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-CCI_7D3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-CCI_7D3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-CCI_7D3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7D3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),3.1255877914107733
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.19052631578947365
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),76.0
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),32.57425584163907
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),14.479999999999999
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),7.048760527127955
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),15.52
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.16877005347593585
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),187.0
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),181.6861202459905
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),31.560000000000002
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),9.624134558632461
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),21.36
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1561904761904762
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),42.0
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),37.50054356007631
+M-CCI_7H3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),6.5600000000000005
+M-CCI_7H3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-CCI_7H3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-CCI_7H3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-CCI_7H3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-CCI_7H3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7H3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.9580203050100735
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.96
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.5225000000000001
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),48.0
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),8.809351035783875
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),25.080000000000002
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.5520535325104337
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),33.64
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.23733333333333334
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),60.0
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),16.72319675661483
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),14.24
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.4124216765066404
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),26.32
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.15651006711409396
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),149.0
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),30.647304991056338
+M-CCI_7H3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),23.32
+M-CCI_7H3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-CCI_7H3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-CCI_7H3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-CCI_7H3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-CCI_7H3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-CCI_7H3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7A3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.1971740334901617
+M-N_7A3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.44
+M-N_7A3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.18456140350877193
+M-N_7A3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),57.0
+M-N_7A3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),5.12685682138079
+M-N_7A3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),10.52
+M-N_7A3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.2677839985567558
+M-N_7A3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.48
+M-N_7A3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.15200000000000002
+M-N_7A3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),185.0
+M-N_7A3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),30.741395860915688
+M-N_7A3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),28.120000000000005
+M-N_7A3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.4474957165745714
+M-N_7A3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),14.28
+M-N_7A3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.10457831325301205
+M-N_7A3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),83.0
+M-N_7A3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),5.284844208955694
+M-N_7A3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),8.68
+M-N_7A3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7A3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7A3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7A3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7A3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7A3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7A3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.1388464652858366
+M-N_7A3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.12
+M-N_7A3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.7300869565217393
+M-N_7A3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),115.0
+M-N_7A3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),69.25385044235922
+M-N_7A3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),83.96000000000002
+M-N_7A3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.815778403029819
+M-N_7A3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.28
+M-N_7A3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.17333333333333334
+M-N_7A3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),9.0
+M-N_7A3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.22841795284834931
+M-N_7A3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),1.56
+M-N_7A3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7A3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7A3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7A3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7A3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7A3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7A3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7A3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7A3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7A3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7A3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7A3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7C1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.6498579546546044
+M-N_7C1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.64
+M-N_7C1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2021052631578947
+M-N_7C1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),76.0
+M-N_7C1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),1.3954194665859716
+M-N_7C1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),15.359999999999998
+M-N_7C1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.6108733856261642
+M-N_7C1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.28
+M-N_7C1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.18285714285714288
+M-N_7C1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),154.0
+M-N_7C1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),23.736794905512834
+M-N_7C1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),28.160000000000004
+M-N_7C1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.0440051134702952
+M-N_7C1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),6.68
+M-N_7C1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.23085714285714287
+M-N_7C1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),70.0
+M-N_7C1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),19.418995869228873
+M-N_7C1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),16.16
+M-N_7C1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7C1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7C1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7C1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7C1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7C1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7C1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.502772551705618
+M-N_7C1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.36
+M-N_7C1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.3029090909090909
+M-N_7C1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),110.0
+M-N_7C1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),44.9144542129407
+M-N_7C1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),33.32
+M-N_7C1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.115940230073437
+M-N_7C1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),19.24
+M-N_7C1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.27230769230769225
+M-N_7C1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),52.0
+M-N_7C1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),7.775796708941196
+M-N_7C1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),14.159999999999998
+M-N_7C1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.4025864767059566
+M-N_7C1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.72
+M-N_7C1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.18568421052631578
+M-N_7C1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),95.0
+M-N_7C1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),19.06466226500453
+M-N_7C1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),17.64
+M-N_7C1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7C1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7C1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7C1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7C1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7C1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7D4-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),8.467706231393167
+M-N_7D4-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),40.4
+M-N_7D4-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.36000000000000004
+M-N_7D4-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),21.0
+M-N_7D4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),34.30509755346629
+M-N_7D4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),7.560000000000001
+M-N_7D4-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),11.422273009030627
+M-N_7D4-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),13.88
+M-N_7D4-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.12023391812865498
+M-N_7D4-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),171.0
+M-N_7D4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),141.2950750605341
+M-N_7D4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),20.560000000000002
+M-N_7D4-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),8.22250494781211
+M-N_7D4-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.36
+M-N_7D4-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.24930232558139537
+M-N_7D4-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),43.0
+M-N_7D4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),54.53499992378363
+M-N_7D4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),10.72
+M-N_7D4-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7D4-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7D4-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7D4-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7D4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7D4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7D4-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),3.1829369368617133
+M-N_7D4-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.08
+M-N_7D4-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.168
+M-N_7D4-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),35.0
+M-N_7D4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),7.514419499867267
+M-N_7D4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),5.88
+M-N_7D4-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),11.23973116059355
+M-N_7D4-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.28
+M-N_7D4-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.15764705882352942
+M-N_7D4-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),51.0
+M-N_7D4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),40.408292156846436
+M-N_7D4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),8.040000000000001
+M-N_7D4-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.0052298733866403
+M-N_7D4-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),9.48
+M-N_7D4-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16844221105527638
+M-N_7D4-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),199.0
+M-N_7D4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),36.24583666899915
+M-N_7D4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),33.519999999999996
+M-N_7D4-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+M-N_7D4-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),104.8
+M-N_7D4-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.25333333333333335
+M-N_7D4-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+M-N_7D4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7D4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),1.5200000000000002
+M-N_7E3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.8976743443342456
+M-N_7E3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.16
+M-N_7E3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.16999999999999998
+M-N_7E3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),52.0
+M-N_7E3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),14.142200862387357
+M-N_7E3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),8.84
+M-N_7E3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),7.310884935178772
+M-N_7E3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),11.28
+M-N_7E3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.12287292817679558
+M-N_7E3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),181.0
+M-N_7E3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),83.98238098344352
+M-N_7E3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),22.240000000000002
+M-N_7E3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),5.701661931276507
+M-N_7E3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.4
+M-N_7E3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.17399999999999996
+M-N_7E3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),60.0
+M-N_7E3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),40.842260806553334
+M-N_7E3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),10.439999999999998
+M-N_7E3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+M-N_7E3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),2.16
+M-N_7E3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.14608695652173917
+M-N_7E3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),23.0
+M-N_7E3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7E3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),3.3600000000000008
+M-N_7E3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.7895511378610072
+M-N_7E3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.8
+M-N_7E3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.3158974358974358
+M-N_7E3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),39.0
+M-N_7E3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),3.083699898869468
+M-N_7E3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),12.319999999999997
+M-N_7E3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.675686900363842
+M-N_7E3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),24.04
+M-N_7E3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1434319526627219
+M-N_7E3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),169.0
+M-N_7E3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),15.979760822872048
+M-N_7E3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),24.240000000000002
+M-N_7E3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.5123109987189376
+M-N_7E3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),15.68
+M-N_7E3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16526315789473686
+M-N_7E3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),76.0
+M-N_7E3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),30.46172243574988
+M-N_7E3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),12.56
+M-N_7E3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7E3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7E3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7E3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7E3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7E3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7E4-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),6.3331670615916975
+M-N_7E4-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.12
+M-N_7E4-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.18411764705882355
+M-N_7E4-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),68.0
+M-N_7E4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),47.56984227293337
+M-N_7E4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),12.520000000000001
+M-N_7E4-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),7.240525123783498
+M-N_7E4-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),8.92
+M-N_7E4-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1579342723004695
+M-N_7E4-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),213.0
+M-N_7E4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),148.45337307613372
+M-N_7E4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),33.64
+M-N_7E4-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),11.494547641714087
+M-N_7E4-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),26.72
+M-N_7E4-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.24242424242424243
+M-N_7E4-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),33.0
+M-N_7E4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),57.93503756223168
+M-N_7E4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),8.0
+M-N_7E4-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+M-N_7E4-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),80.56
+M-N_7E4-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.2
+M-N_7E4-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),1.0
+M-N_7E4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7E4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.2
+M-N_7E4-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.3465019592094791
+M-N_7E4-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.12
+M-N_7E4-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.46792452830188674
+M-N_7E4-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),53.0
+M-N_7E4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),26.995963275036956
+M-N_7E4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),24.799999999999997
+M-N_7E4-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),4.788181451565425
+M-N_7E4-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),9.64
+M-N_7E4-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1561904761904762
+M-N_7E4-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),21.0
+M-N_7E4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),8.427199354755148
+M-N_7E4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),3.2800000000000002
+M-N_7E4-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.6669654319729412
+M-N_7E4-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),12.68
+M-N_7E4-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.14810810810810812
+M-N_7E4-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),185.0
+M-N_7E4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),30.03937579837989
+M-N_7E4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),27.400000000000002
+M-N_7E4-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7E4-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7E4-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7E4-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7E4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7E4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7H2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.342518216043917
+M-N_7H2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.48
+M-N_7H2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.12361290322580645
+M-N_7H2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),155.0
+M-N_7H2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),21.10645748608935
+M-N_7H2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),19.16
+M-N_7H2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),12.070405907474337
+M-N_7H2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),27.52
+M-N_7H2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.12681818181818183
+M-N_7H2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),88.0
+M-N_7H2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),65.61978099009218
+M-N_7H2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),11.16
+M-N_7H2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),5.903297748422215
+M-N_7H2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),30.72
+M-N_7H2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.24461538461538462
+M-N_7H2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),26.0
+M-N_7H2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),29.699002997470807
+M-N_7H2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),6.36
+M-N_7H2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7H2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7H2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7H2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7H2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7H2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7H2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.7186123962111073
+M-N_7H2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-N_7H2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.26117647058823534
+M-N_7H2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),34.0
+M-N_7H2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),16.9407367946352
+M-N_7H2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),8.88
+M-N_7H2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),6.303860879850297
+M-N_7H2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),15.16
+M-N_7H2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.18181818181818182
+M-N_7H2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),66.0
+M-N_7H2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),66.89976446188749
+M-N_7H2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),12.0
+M-N_7H2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.6110967207398694
+M-N_7H2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),22.52
+M-N_7H2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16888888888888887
+M-N_7H2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),126.0
+M-N_7H2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),37.680552556393984
+M-N_7H2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),21.279999999999998
+M-N_7H2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-N_7H2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7H2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-N_7H2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7H2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-N_7H2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-SH_7G1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.416776216170011
+M-SH_7G1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.48
+M-SH_7G1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.19880239520958085
+M-SH_7G1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),167.0
+M-SH_7G1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),30.53779177119855
+M-SH_7G1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),33.2
+M-SH_7G1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.9155310434441881
+M-SH_7G1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.04
+M-SH_7G1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.22268041237113403
+M-SH_7G1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),97.0
+M-SH_7G1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),21.009529655051868
+M-SH_7G1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),21.6
+M-SH_7G1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.1227007737385901
+M-SH_7G1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.04
+M-SH_7G1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16317460317460314
+M-SH_7G1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),63.0
+M-SH_7G1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),4.593666705643662
+M-SH_7G1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),10.279999999999998
+M-SH_7G1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-SH_7G1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-SH_7G1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-SH_7G1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-SH_7G1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-SH_7G1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-SH_7G1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),6.129636748616814
+M-SH_7G1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-SH_7G1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.3352845528455285
+M-SH_7G1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),123.0
+M-SH_7G1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),125.83527875995908
+M-SH_7G1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),41.24
+M-SH_7G1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),4.7237284170817455
+M-SH_7G1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.6
+M-SH_7G1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1873873873873874
+M-SH_7G1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),111.0
+M-SH_7G1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),36.87439291788983
+M-SH_7G1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),20.8
+M-SH_7G1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),11.967276284389232
+M-SH_7G1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),7.52
+M-SH_7G1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.18315789473684213
+M-SH_7G1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),19.0
+M-SH_7G1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),26.601898428912488
+M-SH_7G1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),3.4800000000000004
+M-SH_7G1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.1590670839977578
+M-SH_7G1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),60.88
+M-SH_7G1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.33217391304347826
+M-SH_7G1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),23.0
+M-SH_7G1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),8.58962253587892
+M-SH_7G1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),7.640000000000001
+M-SH_7G2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),6.079130287857893
+M-SH_7G2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.96
+M-SH_7G2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2589473684210526
+M-SH_7G2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),133.0
+M-SH_7G2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),101.00972678975437
+M-SH_7G2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),34.44
+M-SH_7G2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),8.262775574369714
+M-SH_7G2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.52
+M-SH_7G2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.15516778523489932
+M-SH_7G2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),149.0
+M-SH_7G2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),127.51484863324664
+M-SH_7G2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),23.12
+M-SH_7G2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),3.146203239116116
+M-SH_7G2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),8.28
+M-SH_7G2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16083333333333336
+M-SH_7G2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),48.0
+M-SH_7G2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),14.674396816244563
+M-SH_7G2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),7.720000000000001
+M-SH_7G2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-SH_7G2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-SH_7G2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-SH_7G2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-SH_7G2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-SH_7G2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-SH_7G2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.9858111383412664
+M-SH_7G2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-SH_7G2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.46297029702970305
+M-SH_7G2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),101.0
+M-SH_7G2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),58.92597065012202
+M-SH_7G2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),46.760000000000005
+M-SH_7G2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.3064420259061642
+M-SH_7G2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.36
+M-SH_7G2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1674285714285714
+M-SH_7G2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),70.0
+M-SH_7G2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),1.5444678105670675
+M-SH_7G2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),11.719999999999999
+M-SH_7G2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.078565166192314
+M-SH_7G2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),38.76
+M-SH_7G2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.14588235294117646
+M-SH_7G2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),68.0
+M-SH_7G2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),15.34481297621371
+M-SH_7G2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),9.92
+M-SH_7G2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-SH_7G2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-SH_7G2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-SH_7G2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-SH_7G2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-SH_7G2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-SH_7G3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.8619052127688085
+M-SH_7G3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.88
+M-SH_7G3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.14292134831460673
+M-SH_7G3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),89.0
+M-SH_7G3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),34.18336853026223
+M-SH_7G3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),12.719999999999999
+M-SH_7G3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),8.76243113855031
+M-SH_7G3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.56
+M-SH_7G3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.10593607305936074
+M-SH_7G3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),219.0
+M-SH_7G3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),138.78535598401882
+M-SH_7G3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),23.200000000000003
+M-SH_7G3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),7.148257523013297
+M-SH_7G3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.48
+M-SH_7G3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.216551724137931
+M-SH_7G3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),29.0
+M-SH_7G3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),36.42816369109177
+M-SH_7G3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),6.279999999999999
+M-SH_7G3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-SH_7G3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-SH_7G3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-SH_7G3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-SH_7G3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-SH_7G3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.572329236515929
+M-SH_7G3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),5.24
+M-SH_7G3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.4438805970149254
+M-SH_7G3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),134.0
+M-SH_7G3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),34.14666469124843
+M-SH_7G3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),59.480000000000004
+M-SH_7G3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),45.44
+M-SH_7G3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),1.0971428571428572
+M-SH_7G3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),7.0
+M-SH_7G3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),7.680000000000001
+M-SH_7G3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-SH_7G3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),
+M-SH_7G3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),
+M-SH_7G3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+M-SH_7G3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+M-SH_7G3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+M-SH_7G3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+M-SH_7G3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),4.186219290529027
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),9.48
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.10363636363636365
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),22.0
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),5.83138893825713
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),2.2800000000000002
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),3.472346845264214
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),13.36
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.14969072164948455
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),97.0
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),42.19894264841373
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),14.520000000000001
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.7491014607569233
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.44
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.26466666666666666
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),60.0
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),29.01733035965213
+PG-CCI_8E1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),15.88
+PG-CCI_8E1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-CCI_8E1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-CCI_8E1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-CCI_8E1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-CCI_8E1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-CCI_8E1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.4446218151925798
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),27.24
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.4563636363636363
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),22.0
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.4860811676324416
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),10.04
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.4167243710241392
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.44
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.5727536231884058
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),69.0
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),26.26539959109031
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),39.52
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8427137442559889
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.44
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.5854545454545454
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),22.0
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),1.7230089460604838
+PG-CCI_8E1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),12.88
+PG-CCI_8E1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-CCI_8E1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-CCI_8E1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-CCI_8E1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-CCI_8E1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-CCI_8E1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-N_7A2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8503826697392944
+PG-N_7A2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.2
+PG-N_7A2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2515384615384615
+PG-N_7A2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),52.0
+PG-N_7A2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),4.500950101667455
+PG-N_7A2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),13.079999999999998
+PG-N_7A2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.4290680548936406
+PG-N_7A2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),11.04
+PG-N_7A2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.15770700636942678
+PG-N_7A2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),157.0
+PG-N_7A2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),34.0999845431022
+PG-N_7A2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),24.760000000000005
+PG-N_7A2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.2970411362907526
+PG-N_7A2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),14.28
+PG-N_7A2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.14625000000000002
+PG-N_7A2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),64.0
+PG-N_7A2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),2.726418063451481
+PG-N_7A2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),9.360000000000001
+PG-N_7A2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+PG-N_7A2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),33.64
+PG-N_7A2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.05333333333333334
+PG-N_7A2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+PG-N_7A2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-N_7A2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.32
+PG-N_7A2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.6112458600729807
+PG-N_7A2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.04
+PG-N_7A2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.42357142857142854
+PG-N_7A2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),56.0
+PG-N_7A2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),36.98226872974144
+PG-N_7A2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),23.72
+PG-N_7A2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),8.244795346471786
+PG-N_7A2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),14.68
+PG-N_7A2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.21166666666666667
+PG-N_7A2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),48.0
+PG-N_7A2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),38.28954267698873
+PG-N_7A2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),10.16
+PG-N_7A2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),5.366338490245049
+PG-N_7A2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),19.76
+PG-N_7A2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.164
+PG-N_7A2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),40.0
+PG-N_7A2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),22.485379526586335
+PG-N_7A2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),6.5600000000000005
+PG-N_7A2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+PG-N_7A2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),29.72
+PG-N_7A2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.06666666666666667
+PG-N_7A2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),3.0
+PG-N_7A2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-N_7A2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.2
+PG-N_7D1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),4.662627687244888
+PG-N_7D1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.08
+PG-N_7D1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.31659574468085105
+PG-N_7D1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),47.0
+PG-N_7D1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),48.37243337791765
+PG-N_7D1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),14.879999999999999
+PG-N_7D1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),5.582213834203039
+PG-N_7D1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.28
+PG-N_7D1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1785964912280702
+PG-N_7D1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),114.0
+PG-N_7D1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),53.267312755731155
+PG-N_7D1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),20.360000000000003
+PG-N_7D1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),5.803818546078273
+PG-N_7D1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),23.96
+PG-N_7D1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.2009302325581395
+PG-N_7D1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),43.0
+PG-N_7D1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),24.990622594953464
+PG-N_7D1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),8.639999999999999
+PG-N_7D1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-N_7D1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-N_7D1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-N_7D1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-N_7D1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-N_7D1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-N_7D1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.677518787106004
+PG-N_7D1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.16
+PG-N_7D1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2485333333333333
+PG-N_7D1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),75.0
+PG-N_7D1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),18.390979980109012
+PG-N_7D1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),18.639999999999997
+PG-N_7D1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),3.0684582853961455
+PG-N_7D1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),15.92
+PG-N_7D1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.13853658536585364
+PG-N_7D1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),82.0
+PG-N_7D1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),21.778181080856488
+PG-N_7D1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),11.36
+PG-N_7D1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),9.126765399895788
+PG-N_7D1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.04
+PG-N_7D1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16666666666666666
+PG-N_7D1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),18.0
+PG-N_7D1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),16.12883107663265
+PG-N_7D1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),3.0
+PG-N_7D1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+PG-N_7D1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),56.04
+PG-N_7D1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.18898550724637675
+PG-N_7D1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),69.0
+PG-N_7D1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-N_7D1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),13.039999999999996
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.37394557602711115
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),5.24
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.19466666666666663
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),60.0
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),1.0822279664658936
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),11.679999999999998
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.215107191539382
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),16.0
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.12721804511278198
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),133.0
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),1.939730615972132
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),16.92
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.7065255453553996
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),45.36
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.07840000000000001
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),25.0
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),1.8546434695441292
+PG-SH_7B1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),1.9600000000000002
+PG-SH_7B1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7B1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7B1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7B1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7B1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7B1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.318123564481072
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.44
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.5633333333333334
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),24.0
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),1.1734989200566681
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),13.52
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.229622470841664
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),9.28
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.17603864734299515
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),207.0
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),25.907276150168364
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),36.44
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.1924864888189652
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),18.64
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.12000000000000001
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),19.0
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),4.1099519448324395
+PG-SH_7B1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),2.2800000000000002
+PG-SH_7B1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7B1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7B1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7B1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7B1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7B1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.7738074865605975
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.8
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.21760000000000002
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),50.0
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),19.468966773676975
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),10.88
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),4.67703926577557
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.68
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.12214285714285716
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),168.0
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),41.61157088390953
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),20.520000000000003
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.8892328685091666
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.8
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.18153846153846154
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),52.0
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),19.52171749649319
+PG-SH_7B2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),9.44
+PG-SH_7B2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7B2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7B2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7B2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7B2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7B2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.14363942459908813
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.44
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.305
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),56.0
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.21258634840665042
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),17.08
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.20717585454537038
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),38.84
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.11771428571428569
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),70.0
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),1.2596291956358519
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),8.239999999999998
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.05506618811314329
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.04
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.21155555555555555
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),45.0
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),0.9559490256441675
+PG-SH_7B2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),9.52
+PG-SH_7B2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7B2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7B2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7B2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7B2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7B2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.16808481866618324
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),9.08
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.2066666666666667
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),30.0
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.21514856789271453
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),6.200000000000001
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.12563860209992392
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),25.16
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1255
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),80.0
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.19097067519188438
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),10.040000000000001
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.0328990326368406
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),33.8
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1263157894736842
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),95.0
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),8.252160688726258
+PG-SH_7C3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),11.999999999999998
+PG-SH_7C3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7C3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7C3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7C3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7C3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7C3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.227705292355174
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),4.88
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.20673684210526308
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),95.0
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.6292923982051551
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),19.639999999999993
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.358053973878354
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),14.04
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1404878048780488
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),82.0
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),2.231227748643645
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),11.520000000000001
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.998590315735477
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),47.2
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.13310344827586207
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),58.0
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),6.590696083854148
+PG-SH_7C3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),7.720000000000001
+PG-SH_7C3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+PG-SH_7C3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),4.88
+PG-SH_7C3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.17333333333333337
+PG-SH_7C3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),36.0
+PG-SH_7C3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7C3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),6.240000000000001
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.36566430391312454
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.08
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.18491803278688523
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),61.0
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.7011444898151044
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),11.28
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),7.383459684280377
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.48
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.11087248322147651
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),149.0
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),19.32128423984587
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),16.52
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.3946264101057931
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),14.76
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.15675675675675677
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),37.0
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),2.6423133285134512
+PG-SH_7E1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),5.800000000000001
+PG-SH_7E1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7E1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7E1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7E1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7E1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7E1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.4882569093904446
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.64
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.23529411764705882
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),68.0
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),2.1438840878659615
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),16.0
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.06406916383527912
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.68
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.15081081081081082
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),74.0
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.19477025805924855
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),11.16
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8930417774063358
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),18.12
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.13768421052631577
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),95.0
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),7.719399758220655
+PG-SH_7E1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),13.079999999999998
+PG-SH_7E1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+PG-SH_7E1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.64
+PG-SH_7E1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.060000000000000005
+PG-SH_7E1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),4.0
+PG-SH_7E1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7E1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.24000000000000002
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.708365419464181
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.1692857142857143
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),56.0
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),23.4080545457222
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),9.48
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),4.506857388300407
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),18.92
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1272955974842767
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),159.0
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),35.891658537234605
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),20.24
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),4.717927550571716
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),23.16
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1925
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),48.0
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),27.372094552256783
+PG-SH_7F3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),9.24
+PG-SH_7F3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7F3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7F3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7F3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7F3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7F3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),3.46491177138806
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),20.2
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.21688888888888894
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),45.0
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),16.174696359320738
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),9.760000000000002
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),1.0076812578577337
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.6
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.14666666666666664
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),78.0
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),16.813579618548648
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),11.439999999999998
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.2954911900759019
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),27.12
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.11388235294117645
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),85.0
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),5.844751684774953
+PG-SH_7F3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),9.679999999999998
+PG-SH_7F3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7F3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),80.16
+PG-SH_7F3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.04
+PG-SH_7F3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),1.0
+PG-SH_7F3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7F3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.04
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.7215056214215465
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.12
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.20842105263157895
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),95.0
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),28.738210849735943
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),19.8
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),8.045353187636978
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.84
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.14000000000000004
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),106.0
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),65.82732742065193
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),14.840000000000003
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),4.725917755951642
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.0
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.18083333333333332
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),48.0
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),26.317287289673708
+PG-SH_7F4-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),8.68
+PG-SH_7F4-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7F4-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7F4-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7F4-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7F4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7F4-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.5049828696684137
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),6.84
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.8435087719298247
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),57.0
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),10.178712871784066
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),48.080000000000005
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.06664268996565607
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),31.6
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.673548387096774
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),31.0
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),0.3675140630478827
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),20.879999999999995
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8826069488574481
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),20.72
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.7646153846153847
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),26.0
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),4.063085181156617
+PG-SH_7F4-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),19.880000000000003
+PG-SH_7F4-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_7F4-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_7F4-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_7F4-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_7F4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_7F4-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.23226600862418353
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),13.36
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.19636363636363638
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),33.0
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),2.169454688346858
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),6.48
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),2.384265842241484
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.0
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.28372881355932195
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),118.0
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),60.25811997658749
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),33.47999999999999
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.5340016320824205
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),6.12
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.2022857142857143
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),35.0
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),3.649079783572448
+PG-SH_8D3-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),7.08
+PG-SH_8D3-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_8D3-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_8D3-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_8D3-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_8D3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_8D3-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),1.4888725606642665
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.96
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.19238095238095237
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),21.0
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.89332353639856
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),4.04
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.779913436357413
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.44
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.22974358974358977
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),117.0
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),35.77728362071885
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),26.880000000000003
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.912703165034147
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),11.6
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.16272727272727275
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),88.0
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),12.302307013677495
+PG-SH_8D3-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),14.320000000000002
+PG-SH_8D3-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_8D3-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_8D3-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_8D3-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_8D3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_8D3-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.2077190398914089
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.16
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.16514285714285712
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),70.0
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),0.3582952876970719
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),11.559999999999999
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.6403636659209216
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.88
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.20507042253521124
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),71.0
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),21.49845568592446
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),14.559999999999999
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.18019248385998174
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),21.4
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.14515463917525775
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),97.0
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),2.134989489516207
+PG-SH_8E2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),14.080000000000002
+PG-SH_8E2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_8E2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_8E2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_8E2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_8E2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_8E2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.5089874916299677
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),16.8
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.14857142857142858
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),42.0
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),15.18965248883268
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),6.24
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),5.448252210064497
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),23.96
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.16333333333333333
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),84.0
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),40.35418258234229
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),13.719999999999999
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),3.6076258886292742
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),36.84
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1734615384615385
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),104.0
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),39.4326241115919
+PG-SH_8E2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),18.040000000000003
+PG-SH_8E2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+PG-SH_8E2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_8E2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+PG-SH_8E2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_8E2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+PG-SH_8E2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),3.129121599728458
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.88
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.1525806451612903
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),124.0
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),43.88168596647564
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),18.919999999999998
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),6.914993357854487
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),36.72
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.11605263157894737
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),152.0
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),69.21971127095624
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),17.64
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),4.6439411224008245
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),44.28
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1827272727272727
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),44.0
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),24.781402759242898
+S-CCI_7F1-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),8.04
+S-CCI_7F1-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+S-CCI_7F1-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+S-CCI_7F1-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+S-CCI_7F1-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+S-CCI_7F1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+S-CCI_7F1-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),2.5740759475358344
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.32
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.4925
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),48.0
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),38.475383745504004
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),23.64
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),6.1163528002904615
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),19.44
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.12125
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),64.0
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),28.350861942571925
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),7.76
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),2.025755713010662
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.16
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.1629032258064516
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),124.0
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),38.74930824665839
+S-CCI_7F1-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),20.2
+S-CCI_7F1-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+S-CCI_7F1-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+S-CCI_7F1-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+S-CCI_7F1-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+S-CCI_7F1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+S-CCI_7F1-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+S-N_7E2-0,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8750544313638776
+S-N_7E2-0,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),4.08
+S-N_7E2-0,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.19043478260869565
+S-N_7E2-0,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),46.0
+S-N_7E2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),2.2485591160087703
+S-N_7E2-0,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),8.76
+S-N_7E2-0,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),0.7454771649569929
+S-N_7E2-0,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),11.4
+S-N_7E2-0,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.1609580838323353
+S-N_7E2-0,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),167.0
+S-N_7E2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),18.7511656070737
+S-N_7E2-0,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),26.879999999999995
+S-N_7E2-0,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),0.4052043602511625
+S-N_7E2-0,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),21.52
+S-N_7E2-0,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.17937500000000003
+S-N_7E2-0,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),64.0
+S-N_7E2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),3.883594547051059
+S-N_7E2-0,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),11.480000000000002
+S-N_7E2-0,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),
+S-N_7E2-0,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+S-N_7E2-0,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),
+S-N_7E2-0,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+S-N_7E2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+S-N_7E2-0,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+S-N_7E2-5,Animal_1,Tail_base,Chamber1,rectangle,AVERAGE ROI VELOCITY (CM/S),0.8424653880162382
+S-N_7E2-5,Animal_1,Tail_base,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+S-N_7E2-5,Animal_1,Tail_base,Chamber1,rectangle,MEAN ROI BOUT TIME (S),0.3921839080459768
+S-N_7E2-5,Animal_1,Tail_base,Chamber1,rectangle,ROI ENTRIES (COUNTS),87.0
+S-N_7E2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI MOVEMENT (CM),20.128750715823255
+S-N_7E2-5,Animal_1,Tail_base,Chamber1,rectangle,TOTAL ROI TIME (S),34.11999999999998
+S-N_7E2-5,Animal_1,Tail_base,Chamber2,rectangle,AVERAGE ROI VELOCITY (CM/S),2.596437654878908
+S-N_7E2-5,Animal_1,Tail_base,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),28.72
+S-N_7E2-5,Animal_1,Tail_base,Chamber2,rectangle,MEAN ROI BOUT TIME (S),0.21773195876288665
+S-N_7E2-5,Animal_1,Tail_base,Chamber2,rectangle,ROI ENTRIES (COUNTS),97.0
+S-N_7E2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI MOVEMENT (CM),31.72264827651863
+S-N_7E2-5,Animal_1,Tail_base,Chamber2,rectangle,TOTAL ROI TIME (S),21.120000000000005
+S-N_7E2-5,Animal_1,Tail_base,Chamber3,rectangle,AVERAGE ROI VELOCITY (CM/S),1.9863115123080426
+S-N_7E2-5,Animal_1,Tail_base,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),42.08
+S-N_7E2-5,Animal_1,Tail_base,Chamber3,rectangle,MEAN ROI BOUT TIME (S),0.13488372093023257
+S-N_7E2-5,Animal_1,Tail_base,Chamber3,rectangle,ROI ENTRIES (COUNTS),43.0
+S-N_7E2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI MOVEMENT (CM),5.661026995944278
+S-N_7E2-5,Animal_1,Tail_base,Chamber3,rectangle,TOTAL ROI TIME (S),5.800000000000001
+S-N_7E2-5,Animal_1,Tail_base,Top_half,rectangle,AVERAGE ROI VELOCITY (CM/S),0.0
+S-N_7E2-5,Animal_1,Tail_base,Top_half,rectangle,FIRST ROI ENTRY TIME (S),107.4
+S-N_7E2-5,Animal_1,Tail_base,Top_half,rectangle,MEAN ROI BOUT TIME (S),0.2
+S-N_7E2-5,Animal_1,Tail_base,Top_half,rectangle,ROI ENTRIES (COUNTS),1.0
+S-N_7E2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI MOVEMENT (CM),0.0
+S-N_7E2-5,Animal_1,Tail_base,Top_half,rectangle,TOTAL ROI TIME (S),0.2

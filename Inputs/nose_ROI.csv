@@ -1,0 +1,889 @@
+VIDEO,ANIMAL,BODY-PART,SHAPE,SHAPE TYPE,MEASUREMENT,VALUE
+C1-CCI_8A4-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-CCI_8A4-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),33.0
+C1-CCI_8A4-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),4.16
+C1-CCI_8A4-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.08
+C1-CCI_8A4-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),180.0
+C1-CCI_8A4-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),15.959999999999999
+C1-CCI_8A4-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),10.16
+C1-CCI_8A4-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),80.0
+C1-CCI_8A4-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),6.0
+C1-CCI_8A4-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),75.2
+C1-CCI_8A4-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),7.0
+C1-CCI_8A4-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.6000000000000001
+C1-CCI_8A4-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),19.72
+C1-CCI_8A4-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),24.0
+C1-CCI_8A4-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.0
+C1-CCI_8A4-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.04
+C1-CCI_8A4-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),50.0
+C1-CCI_8A4-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.5600000000000005
+C1-CCI_8A4-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),2.4
+C1-CCI_8A4-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),118.0
+C1-CCI_8A4-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),10.719999999999999
+C1-CCI_8A4-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),102.68
+C1-CCI_8A4-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),4.0
+C1-CCI_8A4-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.2
+C1-CCI_8B3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.08
+C1-CCI_8B3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),29.0
+C1-CCI_8B3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.000000000000001
+C1-CCI_8B3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.44
+C1-CCI_8B3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),167.0
+C1-CCI_8B3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),32.76
+C1-CCI_8B3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),18.68
+C1-CCI_8B3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),105.0
+C1-CCI_8B3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),21.96
+C1-CCI_8B3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),28.48
+C1-CCI_8B3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),28.0
+C1-CCI_8B3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),4.760000000000001
+C1-CCI_8B3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-CCI_8B3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),45.0
+C1-CCI_8B3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),7.08
+C1-CCI_8B3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),1.84
+C1-CCI_8B3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),120.0
+C1-CCI_8B3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),14.56
+C1-CCI_8B3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.32
+C1-CCI_8B3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),102.0
+C1-CCI_8B3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),12.2
+C1-CCI_8B3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),68.56
+C1-CCI_8B3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),7.0
+C1-CCI_8B3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.04
+C1-CCI_8B4-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-CCI_8B4-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),82.0
+C1-CCI_8B4-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.24
+C1-CCI_8B4-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.72
+C1-CCI_8B4-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),135.0
+C1-CCI_8B4-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),11.720000000000002
+C1-CCI_8B4-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),7.56
+C1-CCI_8B4-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),49.0
+C1-CCI_8B4-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.840000000000001
+C1-CCI_8B4-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),42.36
+C1-CCI_8B4-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+C1-CCI_8B4-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.32
+C1-CCI_8B4-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),18.48
+C1-CCI_8B4-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),51.0
+C1-CCI_8B4-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),7.8
+C1-CCI_8B4-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.08
+C1-CCI_8B4-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),112.0
+C1-CCI_8B4-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),15.080000000000002
+C1-CCI_8B4-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),6.32
+C1-CCI_8B4-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),86.0
+C1-CCI_8B4-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),7.44
+C1-CCI_8B4-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),9.88
+C1-CCI_8B4-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),30.0
+C1-CCI_8B4-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.4000000000000004
+C1-CCI_8C3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-CCI_8C3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),12.0
+C1-CCI_8C3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),1.3200000000000003
+C1-CCI_8C3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),1.08
+C1-CCI_8C3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),113.0
+C1-CCI_8C3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),11.080000000000002
+C1-CCI_8C3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),8.76
+C1-CCI_8C3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),136.0
+C1-CCI_8C3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),14.92
+C1-CCI_8C3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),47.52
+C1-CCI_8C3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),4.0
+C1-CCI_8C3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.52
+C1-CCI_8C3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),97.48
+C1-CCI_8C3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),20.0
+C1-CCI_8C3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),1.5600000000000003
+C1-CCI_8C3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),1.72
+C1-CCI_8C3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),31.0
+C1-CCI_8C3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),2.6400000000000006
+C1-CCI_8C3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),11.92
+C1-CCI_8C3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),123.0
+C1-CCI_8C3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),14.080000000000002
+C1-CCI_8C3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),16.88
+C1-CCI_8C3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),3.0
+C1-CCI_8C3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.7200000000000001
+C1-CCI_8D1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),18.4
+C1-CCI_8D1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),72.0
+C1-CCI_8D1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),11.8
+C1-CCI_8D1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-CCI_8D1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),116.0
+C1-CCI_8D1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),20.52
+C1-CCI_8D1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),2.48
+C1-CCI_8D1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),47.0
+C1-CCI_8D1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),6.200000000000001
+C1-CCI_8D1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),110.68
+C1-CCI_8D1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),3.0
+C1-CCI_8D1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.16
+C1-CCI_8D1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),3.0
+C1-CCI_8D1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),62.0
+C1-CCI_8D1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),12.919999999999998
+C1-CCI_8D1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.52
+C1-CCI_8D1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),95.0
+C1-CCI_8D1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.039999999999997
+C1-CCI_8D1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.64
+C1-CCI_8D1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),36.0
+C1-CCI_8D1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),2.84
+C1-CCI_8D1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),66.68
+C1-CCI_8D1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+C1-CCI_8D1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.48
+C1-N_8A1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.16
+C1-N_8A1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),49.0
+C1-N_8A1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),6.0
+C1-N_8A1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.24
+C1-N_8A1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),139.0
+C1-N_8A1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),11.760000000000002
+C1-N_8A1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),14.92
+C1-N_8A1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),79.0
+C1-N_8A1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),6.880000000000001
+C1-N_8A1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),98.36
+C1-N_8A1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+C1-N_8A1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.28
+C1-N_8A1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),21.2
+C1-N_8A1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),36.0
+C1-N_8A1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.1200000000000006
+C1-N_8A1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),2.16
+C1-N_8A1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),114.0
+C1-N_8A1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),12.920000000000002
+C1-N_8A1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),9.36
+C1-N_8A1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),82.0
+C1-N_8A1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),10.84
+C1-N_8A1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),44.56
+C1-N_8A1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),28.0
+C1-N_8A1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.0
+C1-N_8B2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.2
+C1-N_8B2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),35.0
+C1-N_8B2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),4.04
+C1-N_8B2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),2.84
+C1-N_8B2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),195.0
+C1-N_8B2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),17.08
+C1-N_8B2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),15.48
+C1-N_8B2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),54.0
+C1-N_8B2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),6.000000000000001
+C1-N_8B2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.2
+C1-N_8B2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+C1-N_8B2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.43999999999999995
+C1-N_8B2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),20.68
+C1-N_8B2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),56.0
+C1-N_8B2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),11.8
+C1-N_8B2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-N_8B2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),111.0
+C1-N_8B2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),24.4
+C1-N_8B2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),4.08
+C1-N_8B2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),92.0
+C1-N_8B2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),23.96
+C1-N_8B2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),9.68
+C1-N_8B2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),30.0
+C1-N_8B2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),5.440000000000001
+C1-N_8C2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-N_8C2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),68.0
+C1-N_8C2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),7.880000000000001
+C1-N_8C2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.36
+C1-N_8C2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),147.0
+C1-N_8C2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),12.240000000000002
+C1-N_8C2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),19.16
+C1-N_8C2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),61.0
+C1-N_8C2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.24
+C1-N_8C2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),111.76
+C1-N_8C2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),5.0
+C1-N_8C2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.24000000000000002
+C1-N_8C2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+C1-N_8C2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),95.0
+C1-N_8C2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),10.159999999999997
+C1-N_8C2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),1.88
+C1-N_8C2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),59.0
+C1-N_8C2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.920000000000001
+C1-N_8C2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),14.04
+C1-N_8C2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),64.0
+C1-N_8C2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),5.6000000000000005
+C1-N_8C2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),18.28
+C1-N_8C2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),12.0
+C1-N_8C2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.6
+C1-N_8C4-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),7.08
+C1-N_8C4-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),4.0
+C1-N_8C4-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),0.6000000000000001
+C1-N_8C4-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.04
+C1-N_8C4-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),166.0
+C1-N_8C4-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),14.52
+C1-N_8C4-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),1.36
+C1-N_8C4-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),70.0
+C1-N_8C4-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),6.199999999999999
+C1-N_8C4-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),21.32
+C1-N_8C4-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),28.0
+C1-N_8C4-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.6400000000000006
+C1-N_8C4-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.28
+C1-N_8C4-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),42.0
+C1-N_8C4-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.7600000000000002
+C1-N_8C4-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.28
+C1-N_8C4-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),70.0
+C1-N_8C4-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.6800000000000015
+C1-N_8C4-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.88
+C1-N_8C4-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),86.0
+C1-N_8C4-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),8.719999999999995
+C1-N_8C4-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),23.04
+C1-N_8C4-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),29.0
+C1-N_8C4-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.8800000000000003
+C1-N_8D2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),16.16
+C1-N_8D2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),59.0
+C1-N_8D2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),9.92
+C1-N_8D2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.32
+C1-N_8D2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),157.0
+C1-N_8D2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),32.88
+C1-N_8D2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),3.64
+C1-N_8D2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),62.0
+C1-N_8D2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),13.919999999999996
+C1-N_8D2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),23.88
+C1-N_8D2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),12.0
+C1-N_8D2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.48
+C1-N_8D2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.12
+C1-N_8D2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),30.0
+C1-N_8D2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),4.48
+C1-N_8D2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.64
+C1-N_8D2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),92.0
+C1-N_8D2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),22.96
+C1-N_8D2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),21.56
+C1-N_8D2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),131.0
+C1-N_8D2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),32.2
+C1-N_8D2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),33.56
+C1-N_8D2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),12.0
+C1-N_8D2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.24
+C1-N_8E5-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),20.88
+C1-N_8E5-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),29.0
+C1-N_8E5-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.68
+C1-N_8E5-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),2.92
+C1-N_8E5-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),170.0
+C1-N_8E5-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),15.879999999999999
+C1-N_8E5-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),7.84
+C1-N_8E5-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),70.0
+C1-N_8E5-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),7.800000000000001
+C1-N_8E5-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),32.2
+C1-N_8E5-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),10.0
+C1-N_8E5-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.6000000000000001
+C1-N_8E5-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.2
+C1-N_8E5-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),69.0
+C1-N_8E5-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.079999999999998
+C1-N_8E5-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),21.08
+C1-N_8E5-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),148.0
+C1-N_8E5-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),15.6
+C1-N_8E5-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),31.36
+C1-N_8E5-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),28.0
+C1-N_8E5-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.08
+C1-N_8E5-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),57.24
+C1-N_8E5-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),3.0
+C1-N_8E5-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.92
+M-CCI_7B4-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.08
+M-CCI_7B4-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),43.0
+M-CCI_7B4-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.92
+M-CCI_7B4-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),2.2
+M-CCI_7B4-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),213.0
+M-CCI_7B4-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),14.080000000000002
+M-CCI_7B4-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),20.28
+M-CCI_7B4-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),22.0
+M-CCI_7B4-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),1.4800000000000002
+M-CCI_7B4-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),21.68
+M-CCI_7B4-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),15.0
+M-CCI_7B4-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.0
+M-CCI_7B4-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.36
+M-CCI_7B4-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),42.0
+M-CCI_7B4-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.9600000000000004
+M-CCI_7B4-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.72
+M-CCI_7B4-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),93.0
+M-CCI_7B4-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.080000000000001
+M-CCI_7B4-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),8.48
+M-CCI_7B4-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),32.0
+M-CCI_7B4-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),2.16
+M-CCI_7B4-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),1.24
+M-CCI_7B4-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),9.0
+M-CCI_7B4-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.56
+M-CCI_7D2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.6
+M-CCI_7D2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),118.0
+M-CCI_7D2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),12.919999999999996
+M-CCI_7D2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.68
+M-CCI_7D2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),136.0
+M-CCI_7D2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),8.68
+M-CCI_7D2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),11.88
+M-CCI_7D2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),103.0
+M-CCI_7D2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),9.359999999999998
+M-CCI_7D2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),1.96
+M-CCI_7D2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),47.0
+M-CCI_7D2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),3.6800000000000006
+M-CCI_7D2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+M-CCI_7D2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),90.0
+M-CCI_7D2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.879999999999999
+M-CCI_7D2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.96
+M-CCI_7D2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),117.0
+M-CCI_7D2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.519999999999998
+M-CCI_7D2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),74.96
+M-CCI_7D2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),29.0
+M-CCI_7D2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),2.16
+M-CCI_7D2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),32.72
+M-CCI_7D2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),30.0
+M-CCI_7D2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.96
+M-CCI_7D3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.92
+M-CCI_7D3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),42.0
+M-CCI_7D3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.48
+M-CCI_7D3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.48
+M-CCI_7D3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),157.0
+M-CCI_7D3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),11.72
+M-CCI_7D3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),20.32
+M-CCI_7D3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),51.0
+M-CCI_7D3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.6
+M-CCI_7D3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),26.0
+M-CCI_7D3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),23.0
+M-CCI_7D3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.4000000000000004
+M-CCI_7D3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.12
+M-CCI_7D3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),46.0
+M-CCI_7D3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),7.08
+M-CCI_7D3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.64
+M-CCI_7D3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),42.0
+M-CCI_7D3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),2.6
+M-CCI_7D3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),9.04
+M-CCI_7D3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),60.0
+M-CCI_7D3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.8
+M-CCI_7D3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.12
+M-CCI_7D3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),23.0
+M-CCI_7D3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.3600000000000003
+M-CCI_7H3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.76
+M-CCI_7H3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),62.0
+M-CCI_7H3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),4.720000000000001
+M-CCI_7H3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),17.64
+M-CCI_7H3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),133.0
+M-CCI_7H3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.280000000000001
+M-CCI_7H3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),20.88
+M-CCI_7H3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),49.0
+M-CCI_7H3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.7600000000000002
+M-CCI_7H3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),67.2
+M-CCI_7H3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),10.0
+M-CCI_7H3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.8400000000000001
+M-CCI_7H3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.56
+M-CCI_7H3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),29.0
+M-CCI_7H3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.7600000000000007
+M-CCI_7H3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.96
+M-CCI_7H3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),121.0
+M-CCI_7H3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),10.160000000000002
+M-CCI_7H3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),24.72
+M-CCI_7H3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),83.0
+M-CCI_7H3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),7.04
+M-CCI_7H3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),65.12
+M-CCI_7H3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),16.0
+M-CCI_7H3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.8400000000000001
+M-N_7A3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.12
+M-N_7A3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),47.0
+M-N_7A3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.4400000000000004
+M-N_7A3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.0
+M-N_7A3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),131.0
+M-N_7A3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.080000000000002
+M-N_7A3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),10.68
+M-N_7A3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),54.0
+M-N_7A3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.3600000000000003
+M-N_7A3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),32.72
+M-N_7A3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),14.0
+M-N_7A3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.0
+M-N_7A3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.12
+M-N_7A3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),178.0
+M-N_7A3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),43.480000000000004
+M-N_7A3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.0
+M-N_7A3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),58.0
+M-N_7A3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),20.080000000000002
+M-N_7A3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),
+M-N_7A3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),0.0
+M-N_7A3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),0.0
+M-N_7A3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),23.92
+M-N_7A3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),35.0
+M-N_7A3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),7.72
+M-N_7C1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.76
+M-N_7C1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),72.0
+M-N_7C1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.64
+M-N_7C1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.08
+M-N_7C1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),162.0
+M-N_7C1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),11.88
+M-N_7C1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),6.12
+M-N_7C1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),64.0
+M-N_7C1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),5.76
+M-N_7C1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.76
+M-N_7C1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),36.0
+M-N_7C1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),3.6799999999999997
+M-N_7C1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.28
+M-N_7C1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),109.0
+M-N_7C1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),11.519999999999998
+M-N_7C1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),13.36
+M-N_7C1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),67.0
+M-N_7C1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.040000000000001
+M-N_7C1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.84
+M-N_7C1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),73.0
+M-N_7C1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),6.080000000000001
+M-N_7C1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.64
+M-N_7C1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),49.0
+M-N_7C1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),3.84
+M-N_7D4-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-N_7D4-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),70.0
+M-N_7D4-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.28
+M-N_7D4-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),9.32
+M-N_7D4-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),112.0
+M-N_7D4-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),8.080000000000002
+M-N_7D4-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),14.04
+M-N_7D4-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),67.0
+M-N_7D4-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),5.680000000000001
+M-N_7D4-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),56.16
+M-N_7D4-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),15.0
+M-N_7D4-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.04
+M-N_7D4-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.24
+M-N_7D4-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),45.0
+M-N_7D4-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.04
+M-N_7D4-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.92
+M-N_7D4-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),68.0
+M-N_7D4-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.5200000000000005
+M-N_7D4-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),9.36
+M-N_7D4-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),132.0
+M-N_7D4-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),10.719999999999999
+M-N_7D4-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),20.56
+M-N_7D4-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),27.0
+M-N_7D4-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.7600000000000002
+M-N_7E3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.48
+M-N_7E3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),22.0
+M-N_7E3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),1.9999999999999998
+M-N_7E3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.84
+M-N_7E3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),96.0
+M-N_7E3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),5.720000000000001
+M-N_7E3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.08
+M-N_7E3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),41.0
+M-N_7E3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),2.9200000000000004
+M-N_7E3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),47.12
+M-N_7E3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),17.0
+M-N_7E3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.92
+M-N_7E3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.48
+M-N_7E3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),30.0
+M-N_7E3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),2.04
+M-N_7E3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),8.0
+M-N_7E3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),106.0
+M-N_7E3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.72
+M-N_7E3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),13.8
+M-N_7E3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),66.0
+M-N_7E3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.720000000000001
+M-N_7E3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),29.36
+M-N_7E3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),10.0
+M-N_7E3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.48
+M-N_7E4-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-N_7E4-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),76.0
+M-N_7E4-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.44
+M-N_7E4-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),9.28
+M-N_7E4-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),122.0
+M-N_7E4-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),10.000000000000002
+M-N_7E4-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),15.52
+M-N_7E4-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),54.0
+M-N_7E4-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.12
+M-N_7E4-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-N_7E4-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),44.0
+M-N_7E4-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),3.16
+M-N_7E4-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-N_7E4-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),41.0
+M-N_7E4-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),4.32
+M-N_7E4-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.08
+M-N_7E4-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),59.0
+M-N_7E4-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),3.8800000000000003
+M-N_7E4-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),11.96
+M-N_7E4-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),74.0
+M-N_7E4-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),5.4799999999999995
+M-N_7E4-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),27.52
+M-N_7E4-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),13.0
+M-N_7E4-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.7200000000000001
+M-N_7H2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.88
+M-N_7H2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),47.0
+M-N_7H2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.8400000000000007
+M-N_7H2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.56
+M-N_7H2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),109.0
+M-N_7H2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.24
+M-N_7H2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),13.56
+M-N_7H2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),67.0
+M-N_7H2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.68
+M-N_7H2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),81.8
+M-N_7H2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),9.0
+M-N_7H2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.9200000000000002
+M-N_7H2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-N_7H2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),92.0
+M-N_7H2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.719999999999997
+M-N_7H2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),42.44
+M-N_7H2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),31.0
+M-N_7H2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),1.8000000000000003
+M-N_7H2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),44.8
+M-N_7H2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),82.0
+M-N_7H2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),10.239999999999998
+M-N_7H2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),40.92
+M-N_7H2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),14.0
+M-N_7H2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.8
+M-SH_7G1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-SH_7G1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),91.0
+M-SH_7G1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),7.240000000000001
+M-SH_7G1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.08
+M-SH_7G1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),62.0
+M-SH_7G1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.640000000000001
+M-SH_7G1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),7.2
+M-SH_7G1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),28.0
+M-SH_7G1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),2.4400000000000004
+M-SH_7G1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),97.64
+M-SH_7G1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),2.0
+M-SH_7G1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.08
+M-SH_7G1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+M-SH_7G1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),31.0
+M-SH_7G1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),2.8000000000000003
+M-SH_7G1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.16
+M-SH_7G1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),167.0
+M-SH_7G1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),14.039999999999997
+M-SH_7G1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.36
+M-SH_7G1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),1.0
+M-SH_7G1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),0.2
+M-SH_7G1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.04
+M-SH_7G1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),11.0
+M-SH_7G1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.0000000000000002
+M-SH_7G2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+M-SH_7G2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),115.0
+M-SH_7G2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),10.680000000000001
+M-SH_7G2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.64
+M-SH_7G2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),74.0
+M-SH_7G2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),6.04
+M-SH_7G2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),7.96
+M-SH_7G2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),11.0
+M-SH_7G2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),0.64
+M-SH_7G2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),0.04
+M-SH_7G2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),21.0
+M-SH_7G2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.4400000000000004
+M-SH_7G2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-SH_7G2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),67.0
+M-SH_7G2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),6.800000000000002
+M-SH_7G2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.76
+M-SH_7G2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),102.0
+M-SH_7G2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),10.44
+M-SH_7G2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),7.72
+M-SH_7G2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),38.0
+M-SH_7G2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.2400000000000007
+M-SH_7G2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),26.08
+M-SH_7G2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),13.0
+M-SH_7G2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.1600000000000004
+M-SH_7G3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.32
+M-SH_7G3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),76.0
+M-SH_7G3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.920000000000001
+M-SH_7G3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),2.44
+M-SH_7G3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),102.0
+M-SH_7G3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),6.5600000000000005
+M-SH_7G3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),44.8
+M-SH_7G3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),30.0
+M-SH_7G3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),1.7200000000000002
+M-SH_7G3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),40.2
+M-SH_7G3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),36.0
+M-SH_7G3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),2.08
+M-SH_7G3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+M-SH_7G3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),204.0
+M-SH_7G3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),29.6
+M-SH_7G3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.8
+M-SH_7G3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),23.0
+M-SH_7G3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),2.5200000000000005
+M-SH_7G3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),
+M-SH_7G3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),0.0
+M-SH_7G3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),0.0
+M-SH_7G3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),80.6
+M-SH_7G3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),1.0
+M-SH_7G3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.08
+PG-CCI_8E1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),3.92
+PG-CCI_8E1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),41.0
+PG-CCI_8E1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.680000000000001
+PG-CCI_8E1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.88
+PG-CCI_8E1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),90.0
+PG-CCI_8E1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),11.959999999999999
+PG-CCI_8E1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.96
+PG-CCI_8E1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),53.0
+PG-CCI_8E1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.08
+PG-CCI_8E1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-CCI_8E1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-CCI_8E1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-CCI_8E1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+PG-CCI_8E1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),14.0
+PG-CCI_8E1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.120000000000001
+PG-CCI_8E1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.6
+PG-CCI_8E1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),134.0
+PG-CCI_8E1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),25.279999999999994
+PG-CCI_8E1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),14.16
+PG-CCI_8E1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),53.0
+PG-CCI_8E1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),13.719999999999999
+PG-CCI_8E1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-CCI_8E1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-CCI_8E1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+PG-N_7A2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.64
+PG-N_7A2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),41.0
+PG-N_7A2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.16
+PG-N_7A2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.76
+PG-N_7A2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),126.0
+PG-N_7A2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.879999999999999
+PG-N_7A2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),12.16
+PG-N_7A2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),37.0
+PG-N_7A2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),2.88
+PG-N_7A2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),90.76
+PG-N_7A2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),5.0
+PG-N_7A2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.52
+PG-N_7A2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+PG-N_7A2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),87.0
+PG-N_7A2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),10.159999999999997
+PG-N_7A2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.04
+PG-N_7A2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),67.0
+PG-N_7A2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.3999999999999995
+PG-N_7A2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),19.68
+PG-N_7A2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),18.0
+PG-N_7A2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),1.4400000000000002
+PG-N_7A2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),70.6
+PG-N_7A2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),7.0
+PG-N_7A2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.36
+PG-N_7D1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.56
+PG-N_7D1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),131.0
+PG-N_7D1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),13.08
+PG-N_7D1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.24
+PG-N_7D1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),84.0
+PG-N_7D1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),6.760000000000001
+PG-N_7D1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),23.12
+PG-N_7D1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),34.0
+PG-N_7D1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.2
+PG-N_7D1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),25.64
+PG-N_7D1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),78.0
+PG-N_7D1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),7.080000000000002
+PG-N_7D1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.72
+PG-N_7D1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),35.0
+PG-N_7D1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.840000000000001
+PG-N_7D1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),14.0
+PG-N_7D1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),120.0
+PG-N_7D1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),8.560000000000002
+PG-N_7D1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.04
+PG-N_7D1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),12.0
+PG-N_7D1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),0.7200000000000002
+PG-N_7D1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),26.24
+PG-N_7D1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),16.0
+PG-N_7D1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.36
+PG-SH_7B1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.28
+PG-SH_7B1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),47.0
+PG-SH_7B1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),4.24
+PG-SH_7B1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.24
+PG-SH_7B1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),127.0
+PG-SH_7B1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),8.879999999999997
+PG-SH_7B1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),42.2
+PG-SH_7B1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),14.0
+PG-SH_7B1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),2.0400000000000005
+PG-SH_7B1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),113.84
+PG-SH_7B1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),3.0
+PG-SH_7B1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.44
+PG-SH_7B1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+PG-SH_7B1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),17.0
+PG-SH_7B1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),1.92
+PG-SH_7B1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),5.44
+PG-SH_7B1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),130.0
+PG-SH_7B1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.84
+PG-SH_7B1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),15.0
+PG-SH_7B1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),18.0
+PG-SH_7B1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),1.2800000000000002
+PG-SH_7B1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),60.8
+PG-SH_7B1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),4.0
+PG-SH_7B1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.24
+PG-SH_7B2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+PG-SH_7B2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),29.0
+PG-SH_7B2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),2.68
+PG-SH_7B2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.04
+PG-SH_7B2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),107.0
+PG-SH_7B2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),6.16
+PG-SH_7B2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.84
+PG-SH_7B2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),44.0
+PG-SH_7B2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.5200000000000005
+PG-SH_7B2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),107.52
+PG-SH_7B2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),4.0
+PG-SH_7B2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.16
+PG-SH_7B2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+PG-SH_7B2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),55.0
+PG-SH_7B2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.840000000000001
+PG-SH_7B2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),11.72
+PG-SH_7B2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),130.0
+PG-SH_7B2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),10.68
+PG-SH_7B2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),24.28
+PG-SH_7B2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),42.0
+PG-SH_7B2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.720000000000001
+PG-SH_7B2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),42.96
+PG-SH_7B2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+PG-SH_7B2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.36
+PG-SH_7C3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),4.72
+PG-SH_7C3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),70.0
+PG-SH_7C3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),6.000000000000001
+PG-SH_7C3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),21.36
+PG-SH_7C3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),98.0
+PG-SH_7C3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.080000000000001
+PG-SH_7C3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),32.12
+PG-SH_7C3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),94.0
+PG-SH_7C3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),7.92
+PG-SH_7C3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),40.48
+PG-SH_7C3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),7.0
+PG-SH_7C3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.6000000000000001
+PG-SH_7C3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),4.8
+PG-SH_7C3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),57.0
+PG-SH_7C3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.04
+PG-SH_7C3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),18.92
+PG-SH_7C3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),62.0
+PG-SH_7C3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.36
+PG-SH_7C3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),47.36
+PG-SH_7C3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),37.0
+PG-SH_7C3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.5600000000000005
+PG-SH_7C3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),36.72
+PG-SH_7C3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),5.0
+PG-SH_7C3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.24000000000000002
+PG-SH_7E1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+PG-SH_7E1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),34.0
+PG-SH_7E1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.6000000000000005
+PG-SH_7E1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),6.2
+PG-SH_7E1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),133.0
+PG-SH_7E1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.200000000000001
+PG-SH_7E1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),13.0
+PG-SH_7E1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),55.0
+PG-SH_7E1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.5200000000000005
+PG-SH_7E1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),32.48
+PG-SH_7E1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),2.0
+PG-SH_7E1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.08
+PG-SH_7E1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),2.16
+PG-SH_7E1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),19.0
+PG-SH_7E1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),1.8800000000000001
+PG-SH_7E1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),3.28
+PG-SH_7E1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),147.0
+PG-SH_7E1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),11.079999999999998
+PG-SH_7E1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),16.64
+PG-SH_7E1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),70.0
+PG-SH_7E1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),5.400000000000001
+PG-SH_7E1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),51.28
+PG-SH_7E1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),6.0
+PG-SH_7E1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.39999999999999997
+PG-SH_7F3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.92
+PG-SH_7F3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),65.0
+PG-SH_7F3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),8.48
+PG-SH_7F3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),15.4
+PG-SH_7F3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),157.0
+PG-SH_7F3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),13.96
+PG-SH_7F3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),22.48
+PG-SH_7F3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),47.0
+PG-SH_7F3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.12
+PG-SH_7F3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),41.44
+PG-SH_7F3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),2.0
+PG-SH_7F3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.12
+PG-SH_7F3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.2
+PG-SH_7F3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),69.0
+PG-SH_7F3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),7.800000000000001
+PG-SH_7F3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),14.68
+PG-SH_7F3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),44.0
+PG-SH_7F3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.24
+PG-SH_7F3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),25.76
+PG-SH_7F3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),108.0
+PG-SH_7F3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),9.999999999999998
+PG-SH_7F3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),61.96
+PG-SH_7F3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),11.0
+PG-SH_7F3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.8400000000000001
+PG-SH_7F4-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),23.44
+PG-SH_7F4-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),25.0
+PG-SH_7F4-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),2.04
+PG-SH_7F4-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),24.28
+PG-SH_7F4-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),64.0
+PG-SH_7F4-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),4.16
+PG-SH_7F4-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),32.8
+PG-SH_7F4-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),86.0
+PG-SH_7F4-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),5.96
+PG-SH_7F4-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),33.76
+PG-SH_7F4-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),16.0
+PG-SH_7F4-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.92
+PG-SH_7F4-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+PG-SH_7F4-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),66.0
+PG-SH_7F4-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),19.32
+PG-SH_7F4-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.96
+PG-SH_7F4-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),166.0
+PG-SH_7F4-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),34.64
+PG-SH_7F4-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),18.36
+PG-SH_7F4-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),69.0
+PG-SH_7F4-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),11.76
+PG-SH_7F4-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),1.52
+PG-SH_7F4-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),46.0
+PG-SH_7F4-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),6.160000000000001
+PG-SH_8D3-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),13.12
+PG-SH_8D3-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),9.0
+PG-SH_8D3-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),0.8800000000000001
+PG-SH_8D3-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),0.12
+PG-SH_8D3-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),172.0
+PG-SH_8D3-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),19.0
+PG-SH_8D3-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),4.08
+PG-SH_8D3-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),40.0
+PG-SH_8D3-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.24
+PG-SH_8D3-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),47.4
+PG-SH_8D3-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),4.0
+PG-SH_8D3-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.28
+PG-SH_8D3-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.4
+PG-SH_8D3-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),17.0
+PG-SH_8D3-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),2.4400000000000004
+PG-SH_8D3-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),2.04
+PG-SH_8D3-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),167.0
+PG-SH_8D3-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),19.119999999999997
+PG-SH_8D3-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),10.0
+PG-SH_8D3-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),92.0
+PG-SH_8D3-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),9.879999999999997
+PG-SH_8D3-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),38.04
+PG-SH_8D3-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),11.0
+PG-SH_8D3-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.32
+PG-SH_8E2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.04
+PG-SH_8E2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),59.0
+PG-SH_8E2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),5.800000000000001
+PG-SH_8E2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),7.56
+PG-SH_8E2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),110.0
+PG-SH_8E2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),8.759999999999996
+PG-SH_8E2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),19.24
+PG-SH_8E2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),62.0
+PG-SH_8E2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),5.48
+PG-SH_8E2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),56.56
+PG-SH_8E2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),1.0
+PG-SH_8E2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.12
+PG-SH_8E2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+PG-SH_8E2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),63.0
+PG-SH_8E2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),18.279999999999998
+PG-SH_8E2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),22.0
+PG-SH_8E2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),144.0
+PG-SH_8E2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),16.200000000000003
+PG-SH_8E2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),35.96
+PG-SH_8E2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),30.0
+PG-SH_8E2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.2
+PG-SH_8E2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),
+PG-SH_8E2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),0.0
+PG-SH_8E2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.0
+S-CCI_7F1-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.0
+S-CCI_7F1-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),67.0
+S-CCI_7F1-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),7.040000000000001
+S-CCI_7F1-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),12.28
+S-CCI_7F1-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),109.0
+S-CCI_7F1-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.240000000000001
+S-CCI_7F1-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),42.24
+S-CCI_7F1-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),25.0
+S-CCI_7F1-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),1.48
+S-CCI_7F1-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),80.84
+S-CCI_7F1-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),9.0
+S-CCI_7F1-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.44
+S-CCI_7F1-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),0.2
+S-CCI_7F1-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),32.0
+S-CCI_7F1-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),3.2
+S-CCI_7F1-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),8.08
+S-CCI_7F1-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),72.0
+S-CCI_7F1-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),6.320000000000001
+S-CCI_7F1-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),24.88
+S-CCI_7F1-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),59.0
+S-CCI_7F1-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),4.760000000000001
+S-CCI_7F1-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),1.8
+S-CCI_7F1-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),29.0
+S-CCI_7F1-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.7600000000000002
+S-N_7E2-0,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),1.8
+S-N_7E2-0,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),30.0
+S-N_7E2-0,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),2.4800000000000004
+S-N_7E2-0,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),4.92
+S-N_7E2-0,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),131.0
+S-N_7E2-0,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),9.0
+S-N_7E2-0,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),17.72
+S-N_7E2-0,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),50.0
+S-N_7E2-0,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),3.2
+S-N_7E2-0,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),78.96
+S-N_7E2-0,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),8.0
+S-N_7E2-0,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),0.52
+S-N_7E2-5,Animal_1,Nose,Chamber1,rectangle,FIRST ROI ENTRY TIME (S),4.64
+S-N_7E2-5,Animal_1,Nose,Chamber1,rectangle,ROI ENTRIES (COUNTS),85.0
+S-N_7E2-5,Animal_1,Nose,Chamber1,rectangle,TOTAL ROI TIME (S),10.679999999999998
+S-N_7E2-5,Animal_1,Nose,Chamber2,rectangle,FIRST ROI ENTRY TIME (S),10.92
+S-N_7E2-5,Animal_1,Nose,Chamber2,rectangle,ROI ENTRIES (COUNTS),107.0
+S-N_7E2-5,Animal_1,Nose,Chamber2,rectangle,TOTAL ROI TIME (S),7.36
+S-N_7E2-5,Animal_1,Nose,Chamber3,rectangle,FIRST ROI ENTRY TIME (S),41.28
+S-N_7E2-5,Animal_1,Nose,Chamber3,rectangle,ROI ENTRIES (COUNTS),21.0
+S-N_7E2-5,Animal_1,Nose,Chamber3,rectangle,TOTAL ROI TIME (S),1.4000000000000001
+S-N_7E2-5,Animal_1,Nose,Top_half,rectangle,FIRST ROI ENTRY TIME (S),43.96
+S-N_7E2-5,Animal_1,Nose,Top_half,rectangle,ROI ENTRIES (COUNTS),15.0
+S-N_7E2-5,Animal_1,Nose,Top_half,rectangle,TOTAL ROI TIME (S),1.0399999999999998
