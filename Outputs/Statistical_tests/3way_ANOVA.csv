@@ -1,0 +1,9 @@
+Effect,sum_sq,df,F,p_value,Formatted_p,Significance,Significant_at_p<0.05,Result,Interpretation
+C(Treatment),224.58103551388152,2.0,5.462943989508341,0.005254847518896521,p = 0.0053,**,Yes,"Significant, p = 0.0053",Significant main effect of treatment: escape latency differs between treatment groups overall.
+C(Injury),30.362855062500117,1.0,1.4771556840358886,0.2263894035450195,p = 0.2264,ns,No,"Not significant, p = 0.2264",No significant main effect of injury: there is no evidence that escape latency differs between Naive and CCI mice overall.
+C(Probe),2854.7559950069635,1.0,138.88414102955042,2.3824883748431285e-22,p < 0.0001,****,Yes,"Significant, p < 0.0001",Significant main effect of probe: escape latency differs between 0 mm and 5 mm probe conditions overall.
+C(Treatment):C(Injury),350.83584529166785,2.0,8.53409802815576,0.0003269412587615649,p = 0.0003,***,Yes,"Significant, p = 0.0003",Significant Treatment × Injury interaction: the effect of treatment depends on injury state.
+C(Treatment):C(Probe),101.12333543055495,2.0,2.459829772470881,0.08935851879086584,p = 0.0894,ns,No,"Not significant, p = 0.0894",No significant Treatment × Probe interaction: there is no evidence that treatment effects depend on probe height.
+C(Injury):C(Probe),32.61076200694396,1.0,1.5865165630880693,0.21004709920869186,p = 0.2100,ns,No,"Not significant, p = 0.2100",No significant Injury × Probe interaction: there is no evidence that injury effects depend on probe height.
+C(Treatment):C(Injury):C(Probe),147.00311859722197,2.0,3.575857602322068,0.030735072608221167,p = 0.0307,*,Yes,"Significant, p = 0.0307",Significant Treatment × Injury × Probe interaction: treatment effects depend jointly on injury state and probe height. This supports targeted planned post-hoc comparisons.
+Residual,2713.252849083334,132.0,,,,,,,Residual unexplained variation.

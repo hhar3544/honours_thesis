@@ -1,0 +1,25 @@
+group1,group2,meandiff,p-adj,lower,upper,reject,stars,Formatted_p,Treatment_1,Injury_1,Probe_1,Treatment_2,Injury_2,Probe_2,Planned_comparison_type
+Morphine|CCI|0mm,Morphine|CCI|5mm,6.8698,0.0153,0.7108,13.0288,True,*,p = 0.0153,Morphine,CCI,0mm,Morphine,CCI,5mm,Probe effect within Treatment × Injury
+Morphine|CCI|0mm,Morphine|Naive|0mm,0.1898,1.0,-5.9692,6.3488,False,ns,p = 1.0000,Morphine,CCI,0mm,Morphine,Naive,0mm,Injury effect within Treatment × Probe
+Morphine|CCI|0mm,Pregabalin|CCI|0mm,0.0001,1.0,-6.1589,6.1591,False,ns,p = 1.0000,Morphine,CCI,0mm,Pregabalin,CCI,0mm,Treatment effect within Injury × Probe
+Morphine|CCI|0mm,Vehicle|CCI|0mm,0.0002,1.0,-6.1588,6.1592,False,ns,p = 1.0000,Morphine,CCI,0mm,Vehicle,CCI,0mm,Treatment effect within Injury × Probe
+Morphine|CCI|5mm,Morphine|Naive|5mm,5.5302,0.124,-0.6288,11.6893,False,ns,p = 0.1240,Morphine,CCI,5mm,Morphine,Naive,5mm,Injury effect within Treatment × Probe
+Morphine|CCI|5mm,Pregabalin|CCI|5mm,-2.3299,0.9827,-8.4889,3.8291,False,ns,p = 0.9827,Morphine,CCI,5mm,Pregabalin,CCI,5mm,Treatment effect within Injury × Probe
+Morphine|CCI|5mm,Vehicle|CCI|5mm,5.5803,0.116,-0.5787,11.7393,False,ns,p = 0.1160,Morphine,CCI,5mm,Vehicle,CCI,5mm,Treatment effect within Injury × Probe
+Morphine|Naive|0mm,Morphine|Naive|5mm,12.2102,0.0,6.0512,18.3693,True,****,p < 0.0001,Morphine,Naive,0mm,Morphine,Naive,5mm,Probe effect within Treatment × Injury
+Morphine|Naive|0mm,Pregabalin|Naive|0mm,-3.0898,0.8787,-9.2488,3.0693,False,ns,p = 0.8787,Morphine,Naive,0mm,Pregabalin,Naive,0mm,Treatment effect within Injury × Probe
+Morphine|Naive|0mm,Vehicle|Naive|0mm,-3.0899,0.8787,-9.2489,3.0691,False,ns,p = 0.8787,Morphine,Naive,0mm,Vehicle,Naive,0mm,Treatment effect within Injury × Probe
+Morphine|Naive|5mm,Pregabalin|Naive|5mm,-6.6202,0.0236,-12.7792,-0.4612,True,*,p = 0.0236,Morphine,Naive,5mm,Pregabalin,Naive,5mm,Treatment effect within Injury × Probe
+Morphine|Naive|5mm,Vehicle|Naive|5mm,-6.62,0.0236,-12.779,-0.461,True,*,p = 0.0236,Morphine,Naive,5mm,Vehicle,Naive,5mm,Treatment effect within Injury × Probe
+Pregabalin|CCI|0mm,Pregabalin|CCI|5mm,4.5398,0.379,-1.6192,10.6988,False,ns,p = 0.3790,Pregabalin,CCI,0mm,Pregabalin,CCI,5mm,Probe effect within Treatment × Injury
+Pregabalin|CCI|0mm,Pregabalin|Naive|0mm,-2.9,0.9178,-9.059,3.259,False,ns,p = 0.9178,Pregabalin,CCI,0mm,Pregabalin,Naive,0mm,Injury effect within Treatment × Probe
+Pregabalin|CCI|0mm,Vehicle|CCI|0mm,0.0001,1.0,-6.1589,6.1591,False,ns,p = 1.0000,Pregabalin,CCI,0mm,Vehicle,CCI,0mm,Treatment effect within Injury × Probe
+Pregabalin|CCI|5mm,Pregabalin|Naive|5mm,1.24,0.9999,-4.919,7.399,False,ns,p = 0.9999,Pregabalin,CCI,5mm,Pregabalin,Naive,5mm,Injury effect within Treatment × Probe
+Pregabalin|CCI|5mm,Vehicle|CCI|5mm,7.9102,0.0021,1.7512,14.0693,True,**,p = 0.0021,Pregabalin,CCI,5mm,Vehicle,CCI,5mm,Treatment effect within Injury × Probe
+Pregabalin|Naive|0mm,Pregabalin|Naive|5mm,8.6798,0.0004,2.5208,14.8388,True,***,p = 0.0004,Pregabalin,Naive,0mm,Pregabalin,Naive,5mm,Probe effect within Treatment × Injury
+Pregabalin|Naive|0mm,Vehicle|Naive|0mm,-0.0002,1.0,-6.1592,6.1588,False,ns,p = 1.0000,Pregabalin,Naive,0mm,Vehicle,Naive,0mm,Treatment effect within Injury × Probe
+Pregabalin|Naive|5mm,Vehicle|Naive|5mm,0.0002,1.0,-6.1588,6.1592,False,ns,p = 1.0000,Pregabalin,Naive,5mm,Vehicle,Naive,5mm,Treatment effect within Injury × Probe
+Vehicle|CCI|0mm,Vehicle|CCI|5mm,12.45,0.0,6.291,18.609,True,****,p < 0.0001,Vehicle,CCI,0mm,Vehicle,CCI,5mm,Probe effect within Treatment × Injury
+Vehicle|CCI|0mm,Vehicle|Naive|0mm,-2.9002,0.9177,-9.0593,3.2588,False,ns,p = 0.9177,Vehicle,CCI,0mm,Vehicle,Naive,0mm,Injury effect within Treatment × Probe
+Vehicle|CCI|5mm,Vehicle|Naive|5mm,-6.6701,0.0217,-12.8291,-0.5111,True,*,p = 0.0217,Vehicle,CCI,5mm,Vehicle,Naive,5mm,Injury effect within Treatment × Probe
+Vehicle|Naive|0mm,Vehicle|Naive|5mm,8.6802,0.0004,2.5212,14.8392,True,***,p = 0.0004,Vehicle,Naive,0mm,Vehicle,Naive,5mm,Probe effect within Treatment × Injury
