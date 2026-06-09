@@ -1,0 +1,53 @@
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:                  count   No. Observations:                  192
+Model:                            GLM   Df Residuals:                      176
+Model Family:        NegativeBinomial   Df Model:                           15
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -598.77
+Date:                Mon, 01 Jun 2026   Deviance:                       20.317
+Time:                        00:45:26   Pearson chi2:                     19.9
+No. Iterations:                     5   Pseudo R-squ. (CS):             0.2375
+Covariance Type:            nonrobust                                         
+=======================================================================================================================
+                                                          coef    std err          z      P>|z|      [0.025      0.975]
+-----------------------------------------------------------------------------------------------------------------------
+Intercept                                               2.3109      0.303      7.635      0.000       1.718       2.904
+treatment[T.Morphine]                                   0.3916      0.425      0.922      0.357      -0.441       1.224
+treatment[T.Pregabalin]                                 0.1020      0.427      0.239      0.811      -0.735       0.939
+treatment[T.Compound 1]                                 0.2605      0.426      0.612      0.541      -0.574       1.095
+injury[T.Yes]                                          -0.7353      0.438     -1.677      0.093      -1.595       0.124
+cage[T.Probe]                                          -0.4520      0.433     -1.043      0.297      -1.302       0.398
+treatment[T.Morphine]:injury[T.Yes]                     1.0160      0.607      1.673      0.094      -0.174       2.206
+treatment[T.Pregabalin]:injury[T.Yes]                   0.1813      0.616      0.294      0.768      -1.026       1.388
+treatment[T.Compound 1]:injury[T.Yes]                   0.5074      0.611      0.831      0.406      -0.690       1.705
+treatment[T.Morphine]:cage[T.Probe]                     0.3080      0.605      0.509      0.611      -0.879       1.495
+treatment[T.Pregabalin]:cage[T.Probe]                   0.0650      0.611      0.106      0.915      -1.132       1.262
+treatment[T.Compound 1]:cage[T.Probe]                   0.1407      0.608      0.231      0.817      -1.051       1.332
+injury[T.Yes]:cage[T.Probe]                            -0.5174      0.646     -0.801      0.423      -1.783       0.749
+treatment[T.Morphine]:injury[T.Yes]:cage[T.Probe]      -0.2015      0.881     -0.229      0.819      -1.929       1.526
+treatment[T.Pregabalin]:injury[T.Yes]:cage[T.Probe]     0.1441      0.900      0.160      0.873      -1.620       1.908
+treatment[T.Compound 1]:injury[T.Yes]:cage[T.Probe]    -0.0876      0.891     -0.098      0.922      -1.834       1.659
+=======================================================================================================================
+
+
+      Rate ratios               
+=====================================================
+
+Intercept	2.310884
+treatment[T.Morphine]	0.391595
+treatment[T.Pregabalin]	0.102049
+treatment[T.Compound 1]	0.260455
+injury[T.Yes]	-0.735348
+cage[T.Probe]	-0.451985
+treatment[T.Morphine]:injury[T.Yes]	1.016022
+treatment[T.Pregabalin]:injury[T.Yes]	0.181313
+treatment[T.Compound 1]:injury[T.Yes]	0.507415
+treatment[T.Morphine]:cage[T.Probe]	0.308024
+treatment[T.Pregabalin]:cage[T.Probe]	0.065005
+treatment[T.Compound 1]:cage[T.Probe]	0.140671
+injury[T.Yes]:cage[T.Probe]	-0.517415
+treatment[T.Morphine]:injury[T.Yes]:cage[T.Probe]	-0.201514
+treatment[T.Pregabalin]:injury[T.Yes]:cage[T.Probe]	0.144109
+treatment[T.Compound 1]:injury[T.Yes]:cage[T.Probe]	-0.087562
+
