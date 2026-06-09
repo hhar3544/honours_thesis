@@ -34,7 +34,7 @@ from matplotlib.lines import Line2D
 # =========================
 # USER SETTINGS
 # =========================
-INPUT_CSV = "/Users/yourname/Desktop/project_folder/Roi.csv"
+INPUT_CSV = "/Users/yourname/Desktop/project_folder/cleaned_Roi.csv"
 OUTPUT_DIR = SCRIPT_DIR
 
 CROSSINGS_PNG = "chamber2_crossings_bar.png"
