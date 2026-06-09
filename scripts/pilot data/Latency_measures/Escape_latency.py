@@ -26,7 +26,7 @@ warnings.filterwarnings("ignore", category=RuntimeWarning)
 # ============================================================
 # USER SETTINGS
 # ============================================================
-INPUT_CSV = ""/Users/yourname/Desktop/project_folder/Roi.csv""
+INPUT_CSV = "/Users/yourname/Desktop/project_folder/Roi.csv"
 OUTPUT_DIR = "."
 
 TREATMENT_ORDER = ["S", "M", "PG", "C1"]
