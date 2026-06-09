@@ -1,3 +1,3 @@
 # Outputs
 
-This folder contains example outputs obtained from the Custom Python scripts. Script outputs primarily include figures for MCA behavioural outcomes, as well as statistical tests. 
+This folder contains example outputs obtained from the Custom Python scripts. Script outputs primarily include cleaned or synthetic datasets, figures of MCA behavioural outcomes and statistical tests. 
